@@ -1,0 +1,9 @@
+streamlit
+streamlit.components.v1
+pandas
+statsmodels.api
+altair
+numpy
+sklearn.metrics
+mean_squared_error
+sqrt
